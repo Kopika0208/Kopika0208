@@ -10,19 +10,16 @@
 [![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/Kopika0208)
 
 ## Languages and Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" width="40" style="margin-right: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40" width="40" style="margin-right: 10px;"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="40" width="40" style="margin-right: 10px;" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" width="40" style="margin-right: 10px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="40" width="40" style="margin-right: 10px;" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40" width="40" style="margin-right: 10px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" style="margin-right: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" width="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" width="40" style="margin-right: 10px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" height="40" width="40" style="margin-right: 10px;"/> 
-
-</p>
+[![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
+[![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.java.com/)
+[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://www.javascript.com/)
+[![C](https://img.icons8.com/color/48/000000/c-programming.png)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://isocpp.org/)
+[![React](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)
+[![Figma](https://img.icons8.com/color/48/000000/figma.png)](https://www.figma.com/)
+[![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)](https://www.mysql.com/)
+[![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
+[![Express.js](https://img.icons8.com/ios/48/000000/express.png)](https://expressjs.com/)
 
 
 
