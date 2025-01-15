@@ -8,7 +8,8 @@
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/kopika-m-7b8857279/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a> 
-  <a href="https://github.com/Kopika0208"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/GitHub_Logo_White.svg" alt="GitHub" height="40" width="40" /></a>
+  <a href="https://github.com/Kopika0208"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="40" width="40" />
+</a>
 </p>
 
 ## Languages and Tools:
