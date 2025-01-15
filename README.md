@@ -14,9 +14,9 @@
 
 ## Languages and Tools:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" alt="Python" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" alt="JavaScript" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" alt="React" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" alt="Java" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg" alt="Node.js" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" alt="MongoDB" height="40" width="40" />
