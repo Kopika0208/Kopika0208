@@ -19,7 +19,7 @@
 [![Figma](https://img.icons8.com/color/48/000000/figma.png)](https://www.figma.com/)
 [![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)](https://www.mysql.com/)
 [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
-[![Express.js](https://img.icons8.com/ios/48/000000/express.png)](https://expressjs.com/)
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" height="40" width="40" /></p>
 
 
 
