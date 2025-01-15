@@ -7,7 +7,7 @@
 
 ## Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a><br>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>
   <a href="https://github.com/yourusername" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" alt="GitHub" height="40" width="40" /></a>
 </p>
 
