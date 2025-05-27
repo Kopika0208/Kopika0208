@@ -43,7 +43,9 @@
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kopika0208&show_icons=true&theme=github_dark&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kopika0208&layout=compact&theme=github_dark&hide_border=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kopika0208&theme=github-dark&hide_border=true)
 
 
